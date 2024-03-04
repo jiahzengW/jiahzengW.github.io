@@ -41,12 +41,6 @@ My current research is focused on designing **automated optoelectronic experimen
 
 ## News and Updates
 
-- **Feb 2024：**Got a MSc offer from the CS department of UCL.
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM**/**ICM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan.
-- **Jun 2022：**Started research intern at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Feb 2023：**[The article](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta00027c/unauth) is selected of the **HOT Papers** and **front cover paper** of Journal of Materials Chemistry A 
+
 
