@@ -6,20 +6,22 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Jiazheng Wang (Theo, 王佳政)**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò's team](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in Vancouver, please feel free to chat with me!
+I am a senior student majoring in automation at Wuhan University. In the fall of 2024, I will enter the School of Electronic and Computer Engineering at Peking University, majoring in integrated circuits.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+My fascination lies at the intersection of semiconductor technology and artificial intelligence. It is here that I see the potential for transformative advancements——"AI4S"  
+
+I am eagerly looking forward to exploring collaborative opportunities, sharing insights, and engaging in discussions with peers and professionals who share my passion for technological innovation. 
+
+Should you find any aspect of my journey or interests intriguing, or if you are keen on discussing potential collaborations, please do not hesitate to reach out to me at *wangjiazheng[at]whu[dot]edu[dot]cn*. Let's explore the endless possibilities that technology holds, together.
+l
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+- **Sep 2024 - ：**Peking University
+- **Sep 2020 - June 2024:** Wuhan University
 
-- **Sep 2024 - Sep 2025：**Cambridge University (MPhil)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
 
 <br>
 
