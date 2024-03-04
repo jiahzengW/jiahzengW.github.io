@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src=""https://jiahzengW.github.io/wjz.jpg" class="floatpic" width="360" height="480">
+<img src="https://jiahzengW.github.io/wjz.jpg" class="floatpic" width="360" height="480">
 
 Here is **Jiazheng Wang (Theo, 王佳政)**.
 
