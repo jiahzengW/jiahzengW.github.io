@@ -8,14 +8,14 @@ layout: page
 
 Here is **Jiazheng Wang (Theo, 王佳政)**.
 
-I am a senior student majoring in automation at Wuhan University. In the fall of 2024, I will enter the School of Electronic and Computer Engineering at Peking University, majoring in integrated circuits.
+I am a senior student majoring in Automation at Wuhan University. In the fall of 2024, I will enter the School of Electronic and Computer Engineering at Peking University, majoring in Integrated Circuits.
 
 My fascination lies at the intersection of semiconductor technology and artificial intelligence. It is here that I see the potential for transformative advancements——"AI4S"  
 
-I am eagerly looking forward to exploring collaborative opportunities, sharing insights, and engaging in discussions with peers and professionals who share my passion for technological innovation. 
+Should you find any aspect of my journey or interests intriguing, or if you are keen on discussing potential collaborations, please do not hesitate to reach out to me at *wangjiazheng[at]whu[dot]edu[dot]cn*. 
 
-Should you find any aspect of my journey or interests intriguing, or if you are keen on discussing potential collaborations, please do not hesitate to reach out to me at *wangjiazheng[at]whu[dot]edu[dot]cn*. Let's explore the endless possibilities that technology holds, together.
-l
+Let's explore the endless possibilities that technology holds, together.
+
 
 ## Academic Background
 
