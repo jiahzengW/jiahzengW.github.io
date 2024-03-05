@@ -40,7 +40,7 @@ My current research is focused on designing **automated optoelectronic experimen
 ---
 
 ## News and Updates
-- **Sep 2023：** Happy to be awarded the Innova scholarship and *yugang•songxiao* scholarship(total 30,000)
+- **Sep 2023：**Happy to be awarded the Innova scholarship and *yugang•songxiao* scholarship(30,000 in total)
 - **Feb 2023：**[The article](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta00027c/unauth) is selected of the **HOT Papers** and **front cover paper** of Journal of Materials Chemistry A 
 
 
