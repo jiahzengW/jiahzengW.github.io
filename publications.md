@@ -16,15 +16,3 @@ title: Publications
 ---
 
 ## Conference Paper
-
-
-
-
-## Working Manuscript
-
-
-
-
-## Undergrad Thesis
-
-
