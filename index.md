@@ -17,8 +17,8 @@ Should you find any aspect of my journey or interests intriguing, or if you are 
 
 ## Academic Background
 
-- **Sep 2024 - ：**Peking University
-- **Sep 2020 - June 2024:** Wuhan University
+- **Sep 2024 - ：**Peking University, School of Electronic and Computer Engineering
+- **Sep 2020 - June 2024:** Wuhan University, School of Electrical Engineering and Automation
 
 
 <br>
