@@ -33,7 +33,7 @@ Should you find any aspect of my journey or interests intriguing, or if you are 
 - Flexible Electronics
 - ...
 
-My current research is focused on designing **automated optoelectronic experimental platforms**, utilizing **machine learning** models for conducting high-throughput experiments, and making innovative predictions and analyses of semiconductor material devices, such as **perovskite solar cells** and thin film transistors.
+My current research is focused on designing **automated optoelectronic experimental platforms**, utilizing **machine learning** models for conducting high-throughput experiments, and making innovative predictions and analyses of advanced optoelectronic devices, such as **perovskite solar cells** and thin film transistors.
 
 <br>
 
