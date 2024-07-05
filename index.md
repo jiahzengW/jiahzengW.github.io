@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://jiahzengW.github.io/wjz123.jpg" class="floatpic" width="360" height="360">
 
-Here is **Jiazheng Wang (Theo, 王佳政)**.
+Here is **Jiazheng Wang (Jensen, 王佳政)**.
 
 I am a senior student majoring in Automation at Wuhan University. In the fall of 2024, I will enter the School of Electronic and Computer Engineering at Peking University, majoring in Integrated Circuits.
 
