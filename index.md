@@ -12,7 +12,7 @@ I am a senior student majoring in Automation at Wuhan University. In the fall of
 
 My fascination lies at the intersection of Advanced Electronics and Photonics technology and Artificial Intelligence. It is here that I see the potential for transformative advancements——"AI4S"  
 
-Should you find any aspect of my journey or interests intriguing, or if you are keen on discussing potential collaborations, please do not hesitate to reach out to me at *wangjiazheng@whu.edu.cn*. Let's explore the endless possibilities that technology holds, together.
+Should you find any aspect of my journey or interests intriguing, or if you are keen on discussing potential collaborations, please do not hesitate to reach out to me at *WangJZ@stu.pku.edu.cn*. Let's explore the endless possibilities that technology holds, together.
 
 
 ## Academic Background
