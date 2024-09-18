@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://jiahzengW.github.io/wjz123.jpg" class="floatpic" width="360" height="360">
 
-Here is **Jiazheng Wang (Jensen, 王佳政)**.
+Here is **Jiazheng Wang**.
 
-I am a senior student majoring in Automation at Wuhan University. In the fall of 2024, I will enter the School of Electronic and Computer Engineering at Peking University, majoring in Integrated Circuits.
+I graduated from Wuhan University with a major in Automation. Currently, I am a first-year graduate student at the School of Electronic and Computer Engineering at Peking University, specializing in Integrated Circuits.
 
 My fascination lies at the intersection of Advanced Electronics and Photonics technology and Artificial Intelligence. It is here that I see the potential for transformative advancements——"AI4S"  
 
