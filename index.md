@@ -8,7 +8,7 @@ layout: page
 
 Here is **Jiazheng Wang**.
 
-I graduated from Wuhan University with a major in Automation. Currently, I am a first-year graduate student at the School of Electronic and Computer Engineering at Peking University, specializing in Integrated Circuits.
+I graduated from Wuhan University with a bachelor's degree and am now pursuing my graduate studies at the School of Electronic and Computer Engineering at **Peking University**
 
 My fascination lies at the intersection of Advanced Electronics and Photonics technology and Artificial Intelligence. It is here that I see the potential for transformative advancements——"AI4S"  
 
