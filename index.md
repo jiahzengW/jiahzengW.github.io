@@ -8,8 +8,7 @@ layout: page
 
 Here is **Jiazheng Wang**.
 
-I graduated from Wuhan University with a bachelor's degree and am now pursuing my graduate studies at the School of Electronic and Computer Engineering at **Peking University**
-My fascination lies at the intersection of Advanced Electronics and Photonics technology and Artificial Intelligence. It is here that I see the potential for transformative advancements——"AI4S"  
+I graduated from Wuhan University with a bachelor's degree and am now pursuing my graduate studies at the School of Electronic and Computer Engineering at **Peking University**. My fascination lies at the intersection of Advanced Electronics and Photonics technology and Artificial Intelligence. It is here that I see the potential for transformative advancements——"AI4S"  
 
 Should you find any aspect of my journey or interests intriguing, or if you are keen on discussing potential collaborations, please do not hesitate to reach out to me at *WangJZ@stu.pku.edu.cn*. Let's explore the endless possibilities that technology holds, together.
 
